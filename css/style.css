@@ -1063,7 +1063,7 @@ width: 600px;
 }
 @media screen and (max-width:768px){
 .about-card{
-  min-width:100px;
+  max-width:100px;
 }
   
   
