@@ -594,7 +594,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .about-card img {
-width: 600px;
+  width: 600px;
   max-height: 350px;
   object-position: center top;
   object-fit: cover;
@@ -1067,7 +1067,7 @@ width: 600px;
   }
 
   .about-card img {
-    width: 100%;
+    width: 40px;
     height: auto;
   }
 }
