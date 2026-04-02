@@ -849,9 +849,7 @@ width: 600px;
   margin-top: 1rem;
 }
 
-/* ======================================================
-   ANIMATIONS
-   ====================================================== */
+
 @keyframes float-up {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-10px); }
@@ -1063,4 +1061,10 @@ width: 600px;
 .login-footer-text a:hover {
   text-decoration: underline;
 }
-
+@media screen and (max-width:768px){
+.about-card{
+  max-width:300px ;
+}
+  
+  
+}
