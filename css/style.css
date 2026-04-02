@@ -1063,11 +1063,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 768px) {
   .about-card {
-    width: 100%;
+    width: 400px;
   }
 
   .about-card img {
-    width: 40px;
+    width: 400px;
     height: auto;
   }
 }
